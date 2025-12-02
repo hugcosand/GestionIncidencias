@@ -9,4 +9,4 @@ seguimiento de incidencias relacionadas con el alumnado en un entorno educativo.
 administrativo registrar, actualizar, visualizar y filtrar incidencias de manera eficiente, incorporando además
 funcionalidades de gestión de usuarios, calendario del profesorado y notificaciones. 
 
-#Tecnologías a utilizar
+# Tecnologías a utilizar
